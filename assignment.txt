@@ -1,0 +1,31 @@
+a chat between Rachel (who is an agent [real person] of Libra car insurance company in Israel) and a client, 
+Rachel is trying to make the client renew their insurance which is about to expire.
+
+agent: "Hi! This is Rachel from Libra. Your car insurance will expire this month. 
+The price for a new insurance is 7000 NIS including discount. Can we renew it?"
+client: "Hi thanks. I want a better offer before i decide."
+agent: "I can take it down to 6600, will it help to close a deal?"
+client: "Is this the best you can do?"
+agent: "Did you get a better offer elsewhere?"
+client: "Checking."
+agent: "OK, waiting :)"
+client: "How much is it for 2 drivers over 50 years old? And do you have insurance for a casual (random) driver?"
+agent: "Checking... there: for a casual driver it is 35 NIS per week if they are above 24 years old, 
+and 30 NIS per day for younger driver"
+client: "Thanks. I decided to go with another offer. I hope you'll be more atractive next year. 
+No need to try to convince me further."
+agent: "What is the offer you got? Maybe I can improve mine."
+client: "Stop disturbing me."
+
+Task 1:
+Review the attached chat between a lead and a sales agent at Libra. 
+Please analyze the conversation and determine if it represents an effective sales interaction.
+    - Analyze the performance: Critique the agent's approach. What did they do well? 
+    Where did they fail to build rapport or handle objections?
+    - Identify the gap: specifically, what missing persuasive elements prevented this conversation from converting?
+
+Task 2:
+Imagine you are building an AI Sales Agent intended to outperform the human agent in the example above. 
+How you make it the best persuasive AI agent in the world? 
+How would you build an AI sales agent designed to be the most persuasive closer in the insurance industry? 
+Outline your strategy for making it highly effective.
