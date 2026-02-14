@@ -1,0 +1,10 @@
+venv
+.env
+.claude
+.serena
+.pytest_cache
+
+*.csv
+
+# VS Code
+.vscode/

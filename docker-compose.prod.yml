@@ -1,0 +1,9 @@
+# services:
+#   app:
+#     build:
+#       context: .
+#       dockerfile: Dockerfile
+#     # Change the image to point to your ACR
+#     image: mcpregistry123123.azurecr.io/ml-agent:latest
+#     ports:
+#       - "8058:8058"
