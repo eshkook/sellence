@@ -29,3 +29,5 @@ Imagine you are building an AI Sales Agent intended to outperform the human agen
 How you make it the best persuasive AI agent in the world? 
 How would you build an AI sales agent designed to be the most persuasive closer in the insurance industry? 
 Outline your strategy for making it highly effective.
+
+ppp
